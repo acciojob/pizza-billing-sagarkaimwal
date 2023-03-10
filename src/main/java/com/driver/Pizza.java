@@ -4,7 +4,7 @@ public class Pizza {
 
     private int price;// Calculating the final bill price
     private Boolean isVeg;
-    private String bill;
+    private String bill="";
     private int cheesePrice;
     private int toppingsPrice;
     private int takeAwayPrice;
